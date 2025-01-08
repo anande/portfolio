@@ -6,16 +6,18 @@ My Work: [GitLab](https://gitlab.com/anande1) | [Github](https://github.com/anan
 ---
 
 ## Summary  
-Cloud Enthusiast with 14+ years of experience in Cloud and Enterprise Virtualization products. Adept at designing and delivering secure cloud solutions for enterprises and public organizations, aligning infrastructure and business goals while mitigating risks.  
+Cloud Enthusiast with 14+ years of experience in Cloud and Enterprise Virtualization products. 
+Adept at designing and delivering secure cloud solutions for enterprises and public organizations, 
+aligning infrastructure and business goals while mitigating risks.  
 
 ---
 
 ## Skills  
-- **Cloud and Virtualization:** OpenStack, Kubernetes, VMware, CEPH, NFV, Containers, Ansible  
-- **DevOps Tools:** GitOps (ArgoCD, HELM, Harbor), Terraform, Jenkins, SaltStack  
+- **Cloud and Virtualization:** OpenStack, Kubernetes, VMware, CEPH, NFV, Containers    
+- **DevOps Tools:** Ansible, GitOps (ArgoCD, HELM, Harbor), Terraform, Jenkins, SaltStack  
 - **Programming and Scripting:** Python, Bash  
-- **Monitoring:** Prometheus, Grafana, ELK Stack  
-- **Certifications:** CKA, CKAD, CKS, Red Hat Certified Engineer, Azure Administrator  
+- **Monitoring:** Prometheus, Grafana 
+- **Certifications:** CKA, CKAD, CKS, Red Hat Certified Engineer  
 
 ---
 
@@ -51,6 +53,35 @@ Cloud Enthusiast with 14+ years of experience in Cloud and Enterprise Virtualiza
 
 ---
 
+## Freelance Experience  
+
+### Mobia  
+- **Eastlink Ansible Tower Implementation (Canada)**  
+  - Standup new Ansible Tower environment  
+  - Help to Migrate Ansible AWX data into Tower  
+  - Provide Best Practices and Architectural Review Services  
+
+- **SHAW Openshift (Canada)**  
+  - Design and code a Dockerfile to build a custom container image.  
+  - Deploy applications that are containerized using multiple container images.  
+  - Create and deploy Jenkins pipelines to facilitate continuous integration and deployment with OpenShift.  
+
+- **FirstOntario Red Hat Satellite (Canada)**
+  - Review deployed satellite/capsule and satellite-installer options used to deploy  
+  - Review all prerequisites are in place for provisioning  
+  - Installing and configuring Red Hat Enterprise Linux 7  
+
+### MIR Digital Solutions  (Canada)
+  - Performance Evaluation Red Hat Enterprise Linux 7  
+  - Troubleshoot network bandwidth between servers
+
+### ASB Resources (USA)
+- **Red Hat partner accreditation**
+  - Enabled customer to onboard as RH Partner
+  - Cleared all the mandatory pre-reqs required for technical partner enablement
+
+---
+
 ## Education  
   **Bachelor of Engineering, Information Technology**  
   Rajarshi Shahu College of Engineering, Pune | 2004 – 2008  
@@ -65,7 +96,7 @@ Cloud Enthusiast with 14+ years of experience in Cloud and Enterprise Virtualiza
 - **Jan 2022:** [Exam] Certified Kubernetes Application Developer (CKAD) [LF-fqdun03yvb]  
 - **Jun 2021:** [Course] Microsoft Azure Administrator (AZ-104)  
 - **Dec 2020:** [Exam] Certified Kubernetes Administrator (CKA) [LF-nif8mlmcdi]  
-- **Dec 2019:** [Exam] IELTS scored 7.5 band (L-7.5 | R-7.5 | W-7 | S-7)  
+- **Dec 2019:** [Exam] IELTS scored 7.5 band (L-7.5/R-7.5/W-7/S-7)  
 - **Dec 2019:** [Course] Amazon Web Services – Solution Architect Associate  
 - **Aug 2018:** [Course] Docker Deep Dive  
 - **Aug 2018:** [Exam] RabbitMQ Certification [License UC-NZ4D9388]  
