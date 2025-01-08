@@ -92,8 +92,10 @@ aligning infrastructure and business goals while mitigating risks.
 ---
 
 ## Certifications / Courses / Exams  
-- **Dec 2023:** [Exam] Codefresh Argo - GitOps at Scale Level II [659043f27ef021b2c409c218]  
-- **Jun 2022:** [Exam] Certified Kubernetes Security Specialist (CKS) [Lf-v6zejvhtxm]  
+- **Dec 2023:** [Exam] Codefresh Argo - GitOps at Scale Level II 
+  - _Certificate ID : 659043f27ef021b2c409c218_  
+- **Jun 2022:** [Exam] Certified Kubernetes Security Specialist (CKS)  
+  - _Certificate ID : Lf-v6zejvhtxm_  
 - **Jan 2022:** [Course] Introduction to GitOps (LFS169) [LF-u15v1yng3y]  
 - **Jan 2022:** [Exam] Certified Kubernetes Application Developer (CKAD) [LF-fqdun03yvb]  
 - **Jun 2021:** [Course] Microsoft Azure Administrator (AZ-104)  
