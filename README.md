@@ -92,20 +92,27 @@ aligning infrastructure and business goals while mitigating risks.
 ---
 
 ## Certifications / Courses / Exams  
-- **Dec 2023:** [Exam] Codefresh Argo - GitOps at Scale Level II 
-  - _Certificate ID : 659043f27ef021b2c409c218_  
+- **Dec 2023:** [Exam] Codefresh Argo - GitOps at Scale Level II  
+  _Certificate ID : 659043f27ef021b2c409c218_  
 - **Jun 2022:** [Exam] Certified Kubernetes Security Specialist (CKS)  
-  - _Certificate ID : Lf-v6zejvhtxm_  
-- **Jan 2022:** [Course] Introduction to GitOps (LFS169) [LF-u15v1yng3y]  
-- **Jan 2022:** [Exam] Certified Kubernetes Application Developer (CKAD) [LF-fqdun03yvb]  
+  _Certificate ID : Lf-v6zejvhtxm_  
+- **Jan 2022:** [Course] Introduction to GitOps (LFS169)   
+  _Certificate ID : LF-u15v1yng3y_  
+- **Jan 2022:** [Exam] Certified Kubernetes Application Developer (CKAD) 
+  _Certificate ID : LF-fqdun03yvb_  
 - **Jun 2021:** [Course] Microsoft Azure Administrator (AZ-104)  
-- **Dec 2020:** [Exam] Certified Kubernetes Administrator (CKA) [LF-nif8mlmcdi]  
+- **Dec 2020:** [Exam] Certified Kubernetes Administrator (CKA)  
+  _Certificate ID : LF-nif8mlmcdi_  
 - **Dec 2019:** [Exam] IELTS scored 7.5 band (L-7.5/R-7.5/W-7/S-7)  
 - **Dec 2019:** [Course] Amazon Web Services – Solution Architect Associate  
 - **Aug 2018:** [Course] Docker Deep Dive  
-- **Aug 2018:** [Exam] RabbitMQ Certification [License UC-NZ4D9388]  
-- **Apr 2014:** [Exam] Red Hat Certified System Administrator – OpenStack [License 150-097-194]  
-- **Jul 2012:** [Exam] Red Hat Certified Virtualization Administrator [License 120-125-059]  
+- **Aug 2018:** [Exam] RabbitMQ Certification  
+  _Certificate ID : License UC-NZ4D9388_  
+- **Apr 2014:** [Exam] Red Hat Certified System Administrator – OpenStack  
+  _Certificate ID : License 150-097-194  
+- **Jul 2012:** [Exam] Red Hat Certified Virtualization Administrator  
+  _Certificate ID : License 120-125-059_  
 - **Sep 2011:** [Course] VMware vSphere Install, Configure, Manage [v4.1]  
-- **Nov 2010:** [Exam] Red Hat Certified Engineer [License 805010354254491]  
+- **Nov 2010:** [Exam] Red Hat Certified Engineer  
+  _Certificate ID : License 805010354254491_  
 - **Dec 2009:** [Course] CCNA (Cisco Certified Network Analyst)  
