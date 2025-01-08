@@ -54,7 +54,7 @@ Cloud Enthusiast with 14+ years of experience in Cloud and Enterprise Virtualiza
 ---
 
 ## Education  
-- **Bachelor of Engineering, Information Technology**  
+  **Bachelor of Engineering, Information Technology**  
   *Rajarshi Shahu College of Engineering, Pune | 2004 – 2008*  
   **Equivalent CGPA:** 6.8  
 
