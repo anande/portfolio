@@ -1,7 +1,8 @@
-## Contact Details:
-Contact: [anand.nande@gmail.com](mailto:anand.nande@gmail.com) | (+91) 8698-270-050  
+## Contact Details
+Email: [anand.nande@gmail.com](mailto:anand.nande@gmail.com)  
+Phone: (+91) 8698-270-050  
 Social: [LinkedIn](https://linkedin.com/in/anandnande)  
-My Work: [GitLab](https://gitlab.com/anande1) | [Github](https://github.com/anande) 
+My Work: [GitLab](https://gitlab.com/anande1) | [Github](https://github.com/anande)  
 Address: Pune, Maharashtra, India  
 
 ---
