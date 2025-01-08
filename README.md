@@ -91,7 +91,7 @@ aligning infrastructure and business goals while mitigating risks.
 
 ---
 
-## Certifications / Courses / Exams  
+## Certifications / Courses  
 - **Dec 2023:** [Exam] Codefresh Argo - GitOps at Scale Level II  
   _Certificate ID : 659043f27ef021b2c409c218_  
 - **Jun 2022:** [Exam] Certified Kubernetes Security Specialist (CKS)  
@@ -109,7 +109,7 @@ aligning infrastructure and business goals while mitigating risks.
 - **Aug 2018:** [Exam] RabbitMQ Certification  
   _Certificate ID : License UC-NZ4D9388_  
 - **Apr 2014:** [Exam] Red Hat Certified System Administrator – OpenStack  
-  _Certificate ID : License 150-097-194  
+  _Certificate ID : License 150-097-194_  
 - **Jul 2012:** [Exam] Red Hat Certified Virtualization Administrator  
   _Certificate ID : License 120-125-059_  
 - **Sep 2011:** [Course] VMware vSphere Install, Configure, Manage [v4.1]  
