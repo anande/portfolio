@@ -1,5 +1,3 @@
-# Anand Nande  
-
 Address: Pune, Maharashtra, India  
 Contact: [anand.nande@gmail.com](mailto:anand.nande@gmail.com) | (+91) 8698-270-050  
 Social: [LinkedIn](https://linkedin.com/in/anandnande)  
@@ -55,7 +53,7 @@ Cloud Enthusiast with 14+ years of experience in Cloud and Enterprise Virtualiza
 
 ## Education  
   **Bachelor of Engineering, Information Technology**  
-  *Rajarshi Shahu College of Engineering, Pune | 2004 – 2008*  
+  Rajarshi Shahu College of Engineering, Pune | 2004 – 2008  
   **Equivalent CGPA:** 6.8  
 
 ---
