@@ -1,7 +1,7 @@
 title: Anand Nande
-logo: /elements/img/me.png
+logo: /assets/img/me.png
 description:  OpenStack Architect | Kubernetes | CI/CD | GitOps | Linux | Ansible 
-show_downloads: true
 theme: jekyll-theme-minimal
+show_downloads: true
 github:
-  zip_url: http://example.com/download.zip
+  zip_url: https://github.com/anande/portfolio/blob/main/assets/files/ANAND_NANDE.pdf
