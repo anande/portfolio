@@ -16,7 +16,7 @@ aligning infrastructure and business goals while mitigating risks.
 
 ## Skills  
 - **Cloud and Virtualization:** OpenStack, Kubernetes, VMware, CEPH, NFV, Containers    
-- **DevOps Tools:** Ansible, GitOps (ArgoCD, HELM, Harbor), Terraform, Jenkins, SaltStack  
+- **DevOps Tools:** Ansible, GitOps (ArgoCD, HELM, Harbor), Crossplane, Terraform, Jenkins, SaltStack  
 - **Programming and Scripting:** Python, Bash  
 - **Monitoring:** Prometheus, Grafana 
 - **Certifications:** CKA, CKAD, CKS, Red Hat Certified Engineer  
@@ -28,10 +28,11 @@ aligning infrastructure and business goals while mitigating risks.
 ### RackSpace, Cloud Architect  
 **Sep 2021 – Present**  
 - Manage large-scale private cloud operations for OpenStack clusters.  
-- Implement GitOps deployments with ArgoCD, HELM, and DockerHub private images.  
-- Automate infrastructure management using Ansible and CI/CD pipelines.  
-- Deploy and monitor Kubernetes pods using Prometheus and Grafana.  
-- Build cloud resources on AWS and Azure with Terraform.  
+- Implement GitOps deployments with ArgoCD, HELM, Kustomize and Harbor Registry images.  
+- Automate infrastructure management using Ansible and CI(Github-Actions,Jenkins)/CD(ArgoCD,ScrewDriver) pipelines.  
+- Deploy and monitor Kubernetes clusters and applications using Prometheus scrapeconfigs, AlertManager and Grafana Dashboards.  
+- Build cloud resources on AWS and GCP with Crossplane and Terraform.  
+- Performance anlysis and tuning of CEPH.   
 
 ### Reliance Jio Ltd., Subject Matter Expert - DevOps  
 **Jul 2020 – Sep 2021**  
