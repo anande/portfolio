@@ -56,7 +56,11 @@ aligning infrastructure and business goals while mitigating risks.
 
 ---
 
-## Freelance Experience  
+<details>
+  <summary>
+    <h2>Freelance Experience </h2>
+  </summary> 
+
 
 ### Mobia  
 - **Eastlink Ansible Tower Implementation (Canada)**  
@@ -82,6 +86,7 @@ aligning infrastructure and business goals while mitigating risks.
 - **Red Hat partner accreditation**
   - Enabled customer to onboard as RH Partner
   - Cleared all the mandatory pre-reqs required for technical partner enablement
+</details>  
 
 ---
 
