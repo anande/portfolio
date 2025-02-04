@@ -56,10 +56,7 @@ aligning infrastructure and business goals while mitigating risks.
 
 ---
 
-<details>
-  <summary>
-    <h2>Freelance Experience </h2>
-  </summary> 
+## Freelance Work
 
 
 ### Mobia  
