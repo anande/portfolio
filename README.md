@@ -82,8 +82,8 @@ aligning infrastructure and business goals while mitigating risks.
 ### ASB Resources (USA)
 - **Red Hat partner accreditation**
   - Enabled customer to onboard as RH Partner
-  - Cleared all the mandatory pre-reqs required for technical partner enablement
-</details>  
+  - Cleared all the mandatory pre-reqs required for technical partner enablement  
+
 
 ---
 
